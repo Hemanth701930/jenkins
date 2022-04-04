@@ -1,0 +1,15 @@
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\hemanth.yadav\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp.dll
